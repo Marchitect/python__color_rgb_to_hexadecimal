@@ -1,3 +1,5 @@
+# Version 1.0 was proudly created by Xinmei Wang (May).
+
 import pyperclip
 
 def cal(r, g, b):
